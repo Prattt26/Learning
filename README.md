@@ -4,3 +4,4 @@ We'll require some things
 - To hava JIO
 - To have an internet connection
 - to eat a lot
+- but not juck foods
